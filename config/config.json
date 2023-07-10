@@ -1,7 +1,7 @@
 {
 	"development": {
-		"username": "Update here username",
-		"password": "Update here password",
+		"username": "postgres",
+		"password": "0090",
 		"database": "edemy_app_development",
 		"host": "127.0.0.1",
 		"dialect": "postgres"
